@@ -36,8 +36,3 @@ Fluxo de trabalho Git local:
 7 - git checkout main
 
 8 - git merge nova\_branch
-
-
-
-
-
