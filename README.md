@@ -12,7 +12,11 @@ Alem disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code
 
 Confira tudo o que temos no nosso youtube. É grátis. Segue o link:
 
-[Curso Git 2025](http://youtube.com/@teomewhy)
+[Curso Git 2025](https://youtube.com/@teomewhy)
+
+Além do nosso youtube se ligue no nosso site e agenda para saber o que vai rolar em 2025
+
+[teomewhy.org](https://teomewhy.org/schedule)
 
 Fluxo de trabalho Git local:
 
