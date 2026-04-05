@@ -10,10 +10,11 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Alem disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code
 
+Confira tudo o que temos no nosso youtube. É grátis. Segue o link:
 
+[Curso Git 2025](http://youtube.com/@teomewhy)
 
 Fluxo de trabalho Git local:
-
 
 
 1 - git checkout -b nova branch
@@ -31,8 +32,6 @@ Fluxo de trabalho Git local:
 7 - git checkout main
 
 8 - git merge nova\_branch
-
-
 
 
 
